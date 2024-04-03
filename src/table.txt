@@ -1,0 +1,23 @@
+delete from db;
+create database db ;
+use db
+create table gf_table(sno varchar(100),jobs varchar(200),subservername varchar(200));
+commit;
+
+
+
+
+
+
+
+create table client(NAME varchar(200),GENDER varchar(200),job varchar(200));
+
+
+
+
+
+
+
+desc gf_table;
+desc client;
+
